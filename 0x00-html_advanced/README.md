@@ -1,1 +1,1 @@
-A Techium compnay website project as part of ALX software engineering program
+A Techium company website project as part of ALX software engineering program
